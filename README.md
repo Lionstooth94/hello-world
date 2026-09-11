@@ -41,7 +41,7 @@ Potential paid offerings for this project and related work:
 
 - GitHub profile: https://github.com/Lionstooth94
 - Sponsors: use the repository Sponsors button
-- Funding links: see `.github/FUNDING.yml`
+- Sponsorship page: https://github.com/sponsors/Lionstooth94
 
 ## Contact
 

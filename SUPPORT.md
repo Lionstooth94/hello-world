@@ -11,7 +11,7 @@ This repository can support both free community usage and paid follow-on work.
 
 ## Sponsorship setup
 
-- Keep the GitHub Sponsors entry for `Lionstooth94` aligned with the maintainer's active sponsor profile.
+- Keep the GitHub Sponsors entry aligned with the current repository owner or maintainer sponsor profile.
 - Keep `.github/FUNDING.yml` current with real funding links.
 - Add a personal site, booking link, or payment page before promotion.
 
