@@ -6,6 +6,8 @@ on:
       - main
       - 'copilot/**'
   pull_request:
+    branches:
+      - main
 
 permissions:
   contents: read
