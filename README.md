@@ -41,7 +41,7 @@ Potential paid offerings for this project and related work:
 
 - GitHub profile: https://github.com/Lionstooth94
 - Sponsors: configure GitHub Sponsors for `Lionstooth94` if available
-- Funding links: see `/home/runner/work/hello-world/hello-world/.github/FUNDING.yml`
+- Funding links: see `.github/FUNDING.yml`
 
 ## Contact checklist before publishing
 
@@ -77,4 +77,4 @@ Focus future effort on the content or tooling that gets the most real interest.
 
 ## More details
 
-See `/home/runner/work/hello-world/hello-world/SUPPORT.md` for sponsorship and paid-support guidance tailored to this repository.
+See `SUPPORT.md` for sponsorship and paid-support guidance tailored to this repository.

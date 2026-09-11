@@ -12,7 +12,7 @@ This repository can support both free community usage and paid follow-on work.
 ## Sponsorship setup
 
 - Enable GitHub Sponsors for `Lionstooth94` if available.
-- Keep `/home/runner/work/hello-world/hello-world/.github/FUNDING.yml` current with real funding links.
+- Keep `.github/FUNDING.yml` current with real funding links.
 - Add a personal site, booking link, or payment page before promotion.
 
 ## Promotion checklist
