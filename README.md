@@ -40,17 +40,13 @@ Potential paid offerings for this project and related work:
 ## Support the project
 
 - GitHub profile: https://github.com/Lionstooth94
-- Sponsors: support `Lionstooth94` through GitHub Sponsors when the sponsor profile is active
+- Sponsors: use the repository Sponsors button
 - Funding links: see `.github/FUNDING.yml`
 
-## Contact checklist before publishing
+## Contact
 
-Replace the placeholders below with real business links before promoting the repository:
-
-- Website: add your personal site or landing page
-- Email: add a business contact address
-- Booking link: add a consultation or support link
-- Gravatar: use the same professional avatar as your GitHub profile
+- GitHub profile: https://github.com/Lionstooth94
+- Issue tracker: open an issue in this repository for questions or commercial interest
 
 ## Public proof of work checklist
 
@@ -77,4 +73,4 @@ Focus future effort on the content or tooling that gets the most real interest.
 
 ## More details
 
-See `SUPPORT.md` for sponsorship and paid-support guidance tailored to this repository.
+See `SUPPORT.md` for sponsorship, promotion, and publishing guidance tailored to this repository.

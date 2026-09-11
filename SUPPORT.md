@@ -15,6 +15,15 @@ This repository can support both free community usage and paid follow-on work.
 - Keep `.github/FUNDING.yml` current with real funding links.
 - Add a personal site, booking link, or payment page before promotion.
 
+## Publishing checklist
+
+Before broad promotion, publish real public contact details:
+
+- personal site or landing page
+- business contact email
+- booking or consultation link
+- a consistent Gravatar that matches the GitHub profile
+
 ## Promotion checklist
 
 - Share major updates on developer-focused social channels.
