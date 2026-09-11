@@ -17,7 +17,7 @@ This repository can support both free community usage and paid follow-on work.
 
 ## Publishing checklist
 
-Before broad promotion, publish real public contact details:
+Current public contact paths are the GitHub profile and repository issues. Before broad outbound promotion for paid work, add:
 
 - personal site or landing page
 - business contact email

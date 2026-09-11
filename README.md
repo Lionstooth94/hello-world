@@ -46,7 +46,7 @@ Potential paid offerings for this project and related work:
 ## Contact
 
 - GitHub profile: https://github.com/Lionstooth94
-- Issue tracker: open an issue in this repository for questions or commercial interest
+- Issue tracker: open an issue in this repository for project questions or bug reports
 
 ## Public proof of work checklist
 
