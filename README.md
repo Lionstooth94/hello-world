@@ -40,7 +40,7 @@ Potential paid offerings for this project and related work:
 ## Support the project
 
 - GitHub profile: https://github.com/Lionstooth94
-- Sponsors: configure GitHub Sponsors for `Lionstooth94` if available
+- Sponsors: support `Lionstooth94` through GitHub Sponsors when the sponsor profile is active
 - Funding links: see `.github/FUNDING.yml`
 
 ## Contact checklist before publishing
