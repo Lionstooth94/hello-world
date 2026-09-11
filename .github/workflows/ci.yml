@@ -7,6 +7,9 @@ on:
       - 'copilot/**'
   pull_request:
 
+permissions:
+  contents: read
+
 jobs:
   verify:
     runs-on: ubuntu-24.04
