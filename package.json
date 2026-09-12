@@ -1,0 +1,21 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Hello, world!",
+  "main": "index.js",
+  "scripts": {
+    "token:lifecycle": "node scripts/stellar-token-lifecycle.mjs",
+    "test": "node --check scripts/stellar-token-lifecycle.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://localhost:26831/Lionstooth94/hello-world"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stellar/stellar-sdk": "^17.0.1"
+  },
+  "type": "module"
+}
